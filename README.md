@@ -1,7 +1,7 @@
-solbuild
+calmbuild
 --------
 
-`solbuild` is a `chroot` based package build system, used to safely and efficiently build Solus packages from source, in a highly controlled and isolated environment. This tool succeeds the `evobuild` tool, originally in Evolve OS, which is now known as Solus. The very core concept of the layered builder has always remained the same, this is the next .. evolution.. of the tool.
+`calmbuild` is a `chroot` based package build system, used to safely and efficiently build Calmira packages from source, in a highly controlled and isolated environment.
 
 Requirements
 ------------
